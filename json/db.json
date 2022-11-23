@@ -1,0 +1,32 @@
+{
+     "people" : [
+    {
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "name": "michael thompson", "birthday": "1996-02-23"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1627161683077-e34782c24d81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=403&q=80",
+        "name": "Sonter Caleb", "birthday": "1880-04-21"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1627161683077-e34782c24d81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=403&q=80",
+        "name": "Omama", "birthday": "1880-06-21"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1627161684458-a62da52b51c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=549&q=80",
+        "name": "Raymon fishman", "birthday": "1996-06-01"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1579983926774-399a9cb765c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Muhsin Oky", "birthday": "2004-11-21"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "name": "Iysah Adoz", "birthday": "2002-12-12"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "name": "Muhammmed Ismail", "birthday": "2000-11-12"
+    }
+]
+}
